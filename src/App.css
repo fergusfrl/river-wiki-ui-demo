@@ -1,0 +1,57 @@
+h1 {
+  padding-top: 0.3rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+.icon {
+  padding-top: 1.8vh !important;
+}
+
+.searchBar {
+  height: 8vh;
+}
+
+#tab-bar .active {
+  color: #17a2b8 !important;
+}
+
+#tab-bar a:hover {
+  color: #17a2b8 !important;
+}
+
+.dropdown .col {
+  padding: 0 0.5rem !important;
+}
+
+#caret {
+  padding-top: 3vh !important;
+  font-size: 2vh;
+}
+
+span {
+  color: #17a2b8 !important;
+}
+
+.list {
+  padding-bottom: 1vh;
+}
+
+.list a {
+  transition: 200ms;
+}
+
+.list a:hover {
+  color: #17a2b8 !important;
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+#main-page .col {
+  padding: 0 !important;
+}
